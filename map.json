@@ -36,9 +36,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":".\/underground_floor.json#start_ecom",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":".\/underground_floor.json#start_ecom"
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
