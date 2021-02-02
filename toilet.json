@@ -33,6 +33,12 @@
          "id":29,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"map.json"
+                }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
          "visible":true,
