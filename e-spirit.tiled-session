@@ -1,0 +1,275 @@
+{
+    "activeFile": "floor_base/floor_base_north_t_floor.json",
+    "expandedProjectPaths": [
+        "floor_n2",
+        "floor_ground",
+        "floor_base",
+        ".",
+        "floor_n1"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "/home/wesnigk/development/ecomrepo/ecom.json": {
+            "scale": 0.6266644021739131,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 734.0452057022061,
+                "y": 352.6608488264946
+            }
+        },
+        "/home/wesnigk/development/ecomrepo/ecom.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/wesnigk/development/ecomrepo/ecom.json#office_1": {
+            "scaleInDock": 1
+        },
+        "/home/wesnigk/development/ecomrepo/elevator.json": {
+            "scale": 1,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 366.5,
+                "y": 237
+            }
+        },
+        "/home/wesnigk/development/ecomrepo/elevator.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/home/wesnigk/development/ecomrepo/elevator.json#office_1": {
+            "scaleInDock": 1
+        },
+        "/home/wesnigk/development/ecomrepo/floor_base/ecom.json": {
+            "scale": 0.6234375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 735.438596491228,
+                "y": 351.2781954887219
+            }
+        },
+        "/home/wesnigk/development/ecomrepo/floor_base/ecom.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/wesnigk/development/ecomrepo/floor_base/ecom.json#office_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/wesnigk/development/ecomrepo/map.json": {
+            "scale": 0.6266644021739131,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 736.438831372974,
+                "y": 352.6608488264946
+            }
+        },
+        "/home/wesnigk/development/ecomrepo/map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/home/wesnigk/development/ecomrepo/map.json#office_1": {
+            "scaleInDock": 1
+        },
+        "/home/wesnigk/development/ecomrepo/toilet.json": {
+            "scale": 1.9217708333333332,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 208.40153937882815,
+                "y": 176.39980486747254
+            }
+        },
+        "/home/wesnigk/development/ecomrepo/toilet.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/home/wesnigk/development/ecomrepo/toilet.json#office_1": {
+            "scaleInDock": 1
+        },
+        "/home/wesnigk/development/ecomrepo/underground_floor.json": {
+            "scale": 1,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 265.5,
+                "y": 215
+            }
+        },
+        "/home/wesnigk/development/ecomrepo/underground_floor.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/home/wesnigk/development/ecomrepo/underground_floor.json#office_1": {
+            "scaleInDock": 1
+        },
+        "/home/wesnigk/development/ecomrepo/underground_toilet_fem.json": {
+            "scale": 1.9217708333333332,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 207.8811859721394,
+                "y": 175.61927475743943
+            }
+        },
+        "/home/wesnigk/development/ecomrepo/underground_toilet_fem.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/home/wesnigk/development/ecomrepo/underground_toilet_fem.json#office_1": {
+            "scaleInDock": 1
+        },
+        "ecom.json": {
+            "scale": 1.509375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 272.62939958592136,
+                "y": 208.03312629399582
+            }
+        },
+        "ecom.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "ecom.json#office_1": {
+            "scaleInDock": 1
+        },
+        "elevator_north.json": {
+            "scale": 1.3671875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 272.45714285714286,
+                "y": 208.45714285714286
+            }
+        },
+        "elevator_north.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "elevator_north.json#office_1": {
+            "scaleInDock": 1
+        },
+        "floor_base/floor_base_north_t_floor.json": {
+            "scale": 1.246875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 314.78696741854634,
+                "y": 178.04511278195486
+            }
+        },
+        "floor_base/floor_base_north_t_floor.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "floor_base/floor_base_north_t_floor.json#office_1": {
+            "scaleInDock": 1
+        },
+        "floor_base/floor_base_north_toilet_east.json": {
+            "scale": 1.911875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 208.95717554756456,
+                "y": 176.26675384112454
+            }
+        },
+        "floor_base/floor_base_north_toilet_east.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "floor_base/floor_base_north_toilet_east.json#office_1": {
+            "scaleInDock": 1
+        },
+        "floor_base/floor_base_north_toilet_west.json": {
+            "scale": 1.911875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 208.43412880026156,
+                "y": 176.26675384112454
+            }
+        },
+        "floor_base/floor_base_north_toilet_west.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "floor_base/floor_base_north_toilet_west.json#office_1": {
+            "scaleInDock": 1
+        },
+        "floor_base/floor_base_north_west_wing.json": {
+            "scale": 0.557608695652174,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 737.9727095516569,
+                "y": 353.2943469785574
+            }
+        },
+        "floor_base/floor_base_north_west_wing.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "floor_base/floor_base_north_west_wing.json#office_1": {
+            "scaleInDock": 1
+        },
+        "floor_base/floor_base_noth_west_wing.json": {
+            "scale": 0.6234375,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 735.438596491228,
+                "y": 352.88220551378447
+            }
+        },
+        "floor_base/floor_base_noth_west_wing.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "floor_base/floor_base_noth_west_wing.json#office_1": {
+            "scaleInDock": 1
+        },
+        "floor_ground/floor_ground_north_t_floor.json": {
+            "scale": 1.1294157608695652,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.0144360902256,
+                "y": 176.1972932330827
+            }
+        },
+        "floor_ground/floor_ground_north_t_floor.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "floor_ground/floor_ground_north_t_floor.json#office_1": {
+            "scaleInDock": 1
+        },
+        "floor_ground/floor_ground_north_toilet_east.json": {
+            "scale": 1.7317708333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 208.1684210526316,
+                "y": 176.12030075187968
+            }
+        },
+        "floor_ground/floor_ground_north_toilet_east.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "floor_ground/floor_ground_north_toilet_east.json#office_1": {
+            "scaleInDock": 1
+        },
+        "north_elevator.json": {
+            "scale": 1.3671875,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 272.45714285714286,
+                "y": 208.45714285714286
+            }
+        },
+        "north_elevator.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "north_elevator.json#office_1": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "/home/wesnigk/development/ecomrepo/tilesets",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "floor_base/floor_base_north_t_floor.json"
+    ],
+    "project": "e-spirit.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "floor_base/floor_base_north_t_floor.json",
+        "floor_base/floor_base_north_toilet_east.json",
+        "floor_base/floor_base_north_toilet_west.json",
+        "floor_base/floor_base_north_west_wing.json",
+        "north_elevator.json",
+        "floor_ground/floor_ground_north_t_floor.json",
+        "floor_ground/floor_ground_north_toilet_east.json",
+        "elevator_north.json",
+        "ecom.json",
+        "floor_base/floor_base_noth_west_wing.json",
+        "/home/wesnigk/development/ecomrepo/floor_base/ecom.json",
+        "/home/wesnigk/development/ecomrepo/ecom.json"
+    ]
+}
