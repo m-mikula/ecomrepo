@@ -38,7 +38,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/underground_floor.json#start_toilet_men"
+                 "value":""
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
@@ -83,7 +83,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/floor_base\/floor_base_north_t_floor.json"
+                 "value":".\/floor_base\/floor_base_north_t_floor.json#start_elevator"
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
@@ -106,7 +106,7 @@
                 }],
          "tintcolor":"#ffff00",
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":18,
          "x":0,
          "y":0

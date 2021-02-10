@@ -91,6 +91,12 @@
          "id":38,
          "name":"start_elevator",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "tintcolor":"#0000ff",
          "type":"tilelayer",
          "visible":true,
